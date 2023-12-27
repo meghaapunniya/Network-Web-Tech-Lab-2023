@@ -1,3 +1,6 @@
 [submodule "RegistrationForm"]
 	path = RegistrationForm
 	url = C:\\Users\\megha\\OneDrive\\Documents\\GitHub\\Network-WebTech-Lab-2023\\StudentReg
+[submodule "LabInternal"]
+	path = LabInternal
+	url = C:\\Users\\megha\\OneDrive\\Documents\\GitHub\\Network-WebTech-Lab-2023\\wtapp
