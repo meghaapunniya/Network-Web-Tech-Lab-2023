@@ -4,3 +4,6 @@
 [submodule "LabInternal"]
 	path = LabInternal
 	url = C:\\Users\\megha\\OneDrive\\Documents\\GitHub\\Network-WebTech-Lab-2023\\wtapp
+[submodule "CODEBLUE_23"]
+	path = CODEBLUE_23
+	url = https://github.com/meghaapunniya/CODEBLUE_23
